@@ -1,0 +1,18 @@
+{
+    "language": "riscv",
+    "type": "riscv",
+    "extensions": ["riscv"],
+    "lexer": "riscv",
+    "parser": "riscv",
+    "interpreter": "riscv",
+    "debugger": "riscv",
+    "test": "riscv",
+    "linter": "riscv",
+    "formatter": "riscv",
+    "validator": "riscv",
+    "lookup":{
+        "riscv": {
+            "add":""
+        }
+    }
+}
